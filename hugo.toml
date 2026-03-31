@@ -1,5 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.oregonhigheredwatch.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Oregon Higher Ed Watch'
 
 theme = 'stack'
+
+publishDir = 'docs'

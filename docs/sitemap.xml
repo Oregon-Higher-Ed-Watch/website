@@ -23,9 +23,6 @@
     <loc>http://localhost:1313/categories/example-category/example/</loc>
     <lastmod>2026-03-31T05:55:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/helloworld/</loc>
-    <lastmod>2026-03-30T04:14:54+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/example-category/</loc>
   </url><url>
     <loc>http://localhost:1313/page/search/</loc>

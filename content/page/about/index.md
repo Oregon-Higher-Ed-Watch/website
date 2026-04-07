@@ -1,6 +1,6 @@
 ---
-title: About
-description: Information about the Oregon Higher Ed Watch project.
+title: About Us
+description:
 date: 2026-04-06
 lastmod: 2026-04-06
 menu:

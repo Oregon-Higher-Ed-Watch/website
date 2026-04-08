@@ -3,7 +3,6 @@ date: 2026-04-06
 title: PCC's Ending Fund Balance
 description: An analysis of PCC's Ending Fund Balance based on PCC's publicly available financial reports.
 draft: false
-image: efb_part-1_chart-1.png
 ---
 
 # PCC's Supposed Financial Struggles

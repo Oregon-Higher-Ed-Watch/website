@@ -21,7 +21,7 @@ PCC’s two unions, the Federation for Faculty and Academic Professionals and th
 We were curious about PCC's financial situation, so we dug into it.
 We took data from PCC's publicly available [Annual Comprehensive Financial Reports](https://www.pcc.edu/about/administration/budget/) and made some charts to help understand what's going on.
 
-![Line graph showing PCC's Ending Fund Balance between FY2008 and FY2025.](efb_part-1_chart-1.efb)
+![Line graph showing PCC's Ending Fund Balance between FY2008 and FY2025.](efb_part-1_chart-1.png)
 
 As you can see from the above graph:
 * From FY2008 through FY2018, the Ending Fund Balance hovered between $17mil and $37mil, roughly 9% of expenses.

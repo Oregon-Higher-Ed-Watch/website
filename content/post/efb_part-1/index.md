@@ -32,6 +32,28 @@ During the COVID-19 Pandemic, PCC reported that it received [nearly $40mil in ai
 * Once the Emergency Grants expired in FY2023, PCC's Ending Fund Balance decreased.
 In FY2025, PCC reported that the Ending Fund Balance was $64,500,000.
 
+If we removed the pandemic years from the graph, the trend would look like this:
+
+![Line graph showing PCC's Ending Fund Balance between FY2008 and FY2019 with a jump to FY2025.](efb_part-1_chart-2.png)
+
+Below are the Ending Fund Balances and the % of Operating Expenditures for the years leading up to the pandemic.
+
+| Year   | Ending Fund Balance | % Operating Expenditures |
+|--------|---------------------|--------------------------|
+| FY2015 | $17,227,963         | 8.47%                    |
+| FY2016 | $22,532,856         | 10.98%                   |
+| FY2017 | $20,434,097         | 9.39%                    |
+| FY2018 | $30,796,199         | 13.55%                   |
+| FY2019 | $42,082,929         | 18.86%                   |
+|        |                     |                          |
+| FY2025 | $64,500,000         | 21.65%                   |
+
+As you can see from the above graph:
+* The Ending Fund Balance in FY2019 was $42,082,929.00 (18.89% of operating expenditures).
+* Prior to FY2019, the Ending Fund Balance was increasing from the Board Policy required Ending Fund Balance.
+* *The Ending Fund Balance in FY2025 was $64,500,000 (21.65% of operating expenditures), which is an increase from pre-pandemic years, both in total dollars and percent of expenditures.*
+
+
 # What caused the Ending Fund Balance to decrease?
 
 It would be easy to suppose that expenses increased.
@@ -40,16 +62,16 @@ This money is staying within PCC, it's just being allocated to other sources.
 
 Below are the funds that received transfers amounting to at least $1,000,000 since FY2023.
 
-| Year | Fund               | Transfers In |
-| -----| ------- |--------|
-| 2023 | Capital Projects   | $6,080,391   |
-| 2023 | Risk Management Fund | $1,964,000 |
-| 2023 | Bookstore Fund | $1,750,398 |
-| 2023 | Food Service Fund | $1,502,000 |
-| 2024 | Capital Projects | $11,400,000 |
-| 2024 | Risk Management Fund | $1,285,611 |
-| 2025 | Capital Projects Fund | $5,000,000 |
-| 2024 | Risk Management Fund | $1,407,772 |
+| Year | Fund                  | Transfers In |
+| -----| ----------------------|--------------|
+| 2023 | Capital Projects      | $6,080,391   |
+| 2023 | Risk Management Fund  | $1,964,000   |
+| 2023 | Bookstore Fund        | $1,750,398   |
+| 2023 | Food Service Fund     | $1,502,000   |
+| 2024 | Capital Projects      | $11,400,000  |
+| 2024 | Risk Management Fund  | $1,285,611   |
+| 2025 | Capital Projects Fund | $5,000,000   |
+| 2024 | Risk Management Fund  | $1,407,772   |
 
 A few notes on these transfers:
 * The Bookstore and Food Services Funds did not receive any transfers in FY2024 or FY2025.
